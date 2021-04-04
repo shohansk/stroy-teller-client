@@ -24,7 +24,7 @@ const CheckOut1 = () => {
   const onSubmit = data => {
     console.log('form submitted', data)
    // const savedCart = getDatabaseCart();
-    const orderDetails = {...loggedInUser,Book: book?.name,Author: book?.authorName, orderTime: new Date()};
+    const orderDetails = {...loggedInUser,Book: book?.name,Author: book?.authorName,price:book?.price, orderTime: new Date()};
     
             
     
