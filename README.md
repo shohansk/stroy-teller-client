@@ -6,6 +6,6 @@ Online site name : Storyteller .
 
 Here is the live site: https://story-teller-book.web.app/
 
-Server git code  link: https://github.com/Porgramming-Hero-web-course/full-stack-server-shohansk
+Server git code  link: 
 
 server live site link : https://dry-harbor-71019.herokuapp.com/
